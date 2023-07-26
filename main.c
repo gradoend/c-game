@@ -1,4 +1,4 @@
-//
+//  welcome to
 //  main.c
 //  cgame
 //
